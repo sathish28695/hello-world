@@ -7,3 +7,5 @@ commit changes through the console
 revert the changes
 
 added code to development branch
+
+merge conflict in the branch

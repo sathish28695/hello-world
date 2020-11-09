@@ -11,3 +11,4 @@ added code to development branch
 merge conflict in the branch
 merge conflict changes
 
+git stash
